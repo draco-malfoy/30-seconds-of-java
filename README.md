@@ -67,7 +67,7 @@ For new snippets the general implementation steps are:
 [![Reverse string](https://img.shields.io/badge/-Reverse%20string-e1b050)](#reverse-string) [![link](https://img.shields.io/badge/-Repository%20link-969c56?logo=github)](https://github.com/iluwatar/30-seconds-of-java/blob/master/src/main/java/string/ReversStringSnippet.java)  
 [![String to date](https://img.shields.io/badge/-String%20to%20date-e1b050)](#string-to-date) [![link](https://img.shields.io/badge/-Repository%20link-969c56?logo=github)](https://github.com/iluwatar/30-seconds-of-java/blob/master/src/main/java/string/StringToDateSnippet.java)  
 [![Anagram Check](https://img.shields.io/badge/-Anagram%20Check-e1b050)](#anagram-check) [![link](https://img.shields.io/badge/-Repository%20link-969c56?logo=github)](https://github.com/iluwatar/30-seconds-of-java/blob/master/src/main/java/string/AnagramSnippet.java)  
-[![Find Levenshtein distance](https://img.shields.io/badge/-Find%20Levenshtein%20distance-e1b050)](#find-levenshtein-distance) [![link](https://img.shields.io/badge/-Repository%20link-969c56?logo=github)](https://github.com/iluwatar/30-seconds-of-java/blob/master/src/main/java/string/LevenshteinDistanceSnippet.java)
+[![Find Levenshtein distance](https://img.shields.io/badge/-Find%20Levenshtein%20distance-e1b050)](#find-levenshtein-distance) [![link](https://img.shields.io/badge/-Repository%20link-969c56?logo=github)](https://github.com/iluwatar/30-seconds-of-java/blob/master/src/main/java/string/LevenshteinDistanceSnippet.java)  
 [![Move special characters to end](https://img.shields.io/badge/-Move%20special%20characters%20to%20end-e1b050)](#move-special-characters-to-end) [![link](https://img.shields.io/badge/-Repository%20link-969c56?logo=github)](https://github.com/draco-malfoy/30-seconds-of-java/blob/master/src/main/java/string/MoveSpecialCharsToEnd.java)
 
 ### Class
@@ -517,7 +517,7 @@ For new snippets the general implementation steps are:
 			}
 		}
 		return firstPart.append(secondPart).toString();
-	}
+  }
 ```
 
 ## Class
