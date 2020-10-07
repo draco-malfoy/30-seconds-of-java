@@ -204,7 +204,6 @@ For new snippets the general implementation steps are:
     return Arrays.stream(arr).reduce(Integer.MIN_VALUE, Integer::max);
   }
 ```
-
 ## File
 
 ### List directories
